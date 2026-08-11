@@ -43,8 +43,6 @@ Executar o arquivo script.sql no PostgreSQL.
 pip install -r requirements.txt
 ```
 
-### 3. Gerar registros de teste
-
 
 python seed.py
 ```
